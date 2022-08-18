@@ -13,7 +13,7 @@ public class Controller {
 			return 1;
 		}
 		else {
-		variavel=qtde;
+		variavel = qtde;
 		soma = (1.0 / variavel) + Somatorio(qtde - 1);
 		}
 	 return soma;

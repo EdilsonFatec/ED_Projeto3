@@ -13,7 +13,7 @@ public class Principal {
 	    qtde = Integer.parseInt(JOptionPane.showInputDialog("Qtde = "));
 	    soma =  somat.Somatorio(qtde);
 	    
-		System.out.println("Somatorio = "+soma);
+		System.out.println("Somatório = "+soma);
 	}
 
 }
